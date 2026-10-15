@@ -8,7 +8,8 @@ I am a **Software & Computer Engineer** recently graduated from the **Universida
 
 - **Core & Fundamentals:** Data Science, FullStack Development, Systems & Networks.
 - **Languages:** C/C++, C#, Java, Python, R, Dart (Flutter).
-- **Tools:** Git/GitHub, LaTeX, Markdown, Google Colab.
+-  **Tools & IDEs:** Git/GitHub, VS Code, Google Colab, IntelliJ, PyCharm, Eclipse, Matlab, Jupyter, LaTeX, Markdown.
+- **AI & Data Science:** PyTorch, Computer Vision (YOLO), CNNs, Pandas, NumPy.
 - **Databases:** SQL, InfluxDB, MongoDB.
 - **Systems & Networking:** Linux/Unix, Cisco Packet Tracer, Wireshark.
 
@@ -23,9 +24,9 @@ I am a **Software & Computer Engineer** recently graduated from the **Universida
 
 ### 📚 What I'm Up To
 
-- Currently working on sharpening my Bachelor's Thesis to achieve its publication in a scientific journal.
-- Continuous learner looking forward to expanding my knowledge of modern technologies and skills, such as industry-standard programming languages, cloud computing or development methodologies.
-- Open to new professional opportunities in software engineering, data science, and systems.
+- Currently working on sharpening my **Bachelor's Thesis** to achieve its publication in a **scientific journal**.
+- Continuous learner looking forward to expanding my knowledge of modern technologies and skills, such as **industry-standard** programming languages, **cloud computing** and **development methodologies**.
+- Open to new professional opportunities in **Software Engineering**, **AI and Data Science**, and **Systems and Networking**.
 
 ---
 
